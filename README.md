@@ -1,2 +1,2 @@
 # imageToBase64
-from image to base64
+upload image and convert it on base64
